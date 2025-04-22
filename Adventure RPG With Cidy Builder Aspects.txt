@@ -1,0 +1,23 @@
+The Pitch - terraria meets stardew
+
+The game starts with the player accompinied by some npc's. The goal is to build a small settlement for the player and these npc's to surviive in.
+These npc's have traits and abilities such as farming, blacksmithing, building or enchanting (and fishing, every game needs fishing) that you work on upgrading as the game progresses.
+As the player you have to adventure out into the wilderness to find resources to use with the npc's to level them up, upgrade the settlement
+and in general survive. In order to survive the wilderness your character needs items and gear, you would get this by exploring, fighting monsters and crafting through your npc's.
+
+
+
+The World - openworld procedural
+
+The world map would be a grid of tiles (either square or hexagon tiles or no tiles but hand drawn map). There would be groups of tiles that form biomes.
+The different biomes would have different resources, monsters and events to encounter. Difficulty would scale with distance from the starting tile/biome.
+Each tile in the biomes would have a list of resources present as well as points of interest such as caves or bandit camps.(This info would be shown in a tooltip as you hover your mouse over each tile)
+(fog of war would obscure tiles and you have to build scout towers or use a magic scroll you found to see farther out - not sold on this idea but i kinda like it)
+
+Traveling between tiles is easy but not free. To make the journey you need to have resources.(like camping supplies and food rations)(and maybe it passes time if there is a day/night cycle mechanic)
+The ammount resources you bring back to your settlement is limmited by how much you can carry. This can be improved by bringing an adventuring party of npc's to help carry stuff.
+Once you get a stable and a carpenter npc you could even build a cart and increase the ammount of resources you can transport and the distance you can travel. 
+Inventory management shouldnt be a much of a concern outside of traveling between tiles.
+(another maybe idea - You can only bring so many rations with you meaning you can only travel so far bewfore needing to turn back, to get around this you could build smaller settlements along the way
+or once your wizard is high enough level you can build wizard towers and teleport between them)
+
