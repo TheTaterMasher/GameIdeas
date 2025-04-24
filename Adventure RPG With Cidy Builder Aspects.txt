@@ -46,6 +46,6 @@ As the player gains exp through fighting monsters/crafting/exploring (something 
 
 NPC Level Up And Building System -
 
-As npc's level up their workshop building levels up with them and looks nicer. They get access to better items to craft and other stuff.
+As npc's level up their workshop building levels up with them and looks nicer. They get access to better items to craft and other stuff. The player can choose where to build the workshops for the npc's and customize what they look like.
 
 
