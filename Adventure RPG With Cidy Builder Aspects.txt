@@ -21,3 +21,17 @@ Inventory management shouldnt be a much of a concern outside of traveling betwee
 (another maybe idea - You can only bring so many rations with you meaning you can only travel so far bewfore needing to turn back, to get around this you could build smaller settlements along the way
 or once your wizard is high enough level you can build wizard towers and teleport between them)
 
+
+
+Combat Systems - 
+
+The idea for spells is inspired heavly by noita. You build a spell out of runes you discover in the world or research with your resident wizard npc. You store the runes in a book that creates your spell.
+The runes determine the shape, size and behaviour of the spell.
+
+(ideas for melee combat go here)
+
+
+
+Monsters and Enemies - 
+
+
