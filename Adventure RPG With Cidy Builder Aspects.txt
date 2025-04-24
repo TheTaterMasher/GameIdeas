@@ -2,8 +2,8 @@ The Pitch - terraria meets stardew
 
 The game starts with the player accompinied by some npc's. The goal is to build a small settlement for the player and these npc's to surviive in.
 These npc's have traits and abilities such as farming, blacksmithing, building or enchanting (and fishing, every game needs fishing) that you work on upgrading as the game progresses.
-As the player you have to adventure out into the wilderness to find resources to use with the npc's to level them up, upgrade the settlement
-and in general survive. In order to survive the wilderness your character needs items and gear, you would get this by exploring, fighting monsters and crafting through your npc's.
+As the player you have to adventure out into the wilderness to find resources to use with the npc's to level them up, upgrade the settlement and in general survive.
+In order to survive the wilderness your character needs items and gear, you would get this by exploring, fighting monsters and crafting through your npc's.
 
 
 
@@ -33,5 +33,19 @@ The runes determine the shape, size and behaviour of the spell.
 
 
 Monsters and Enemies - 
+
+(monsters a specific to the biome thats all i have so far)
+
+
+
+Player Level Up System -
+
+As the player gains exp through fighting monsters/crafting/exploring (something should happen idk what yet)
+
+
+
+NPC Level Up And Building System -
+
+As npc's level up their workshop building levels up with them and looks nicer. They get access to better items to craft and other stuff.
 
 
